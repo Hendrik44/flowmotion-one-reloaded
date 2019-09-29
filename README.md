@@ -27,7 +27,11 @@ Values:
 Currently there is no way to get a firmware to recover the flowmotion one. The domain and link seems to be dead [http://firmware.api.flowmotion.co/upgrades/current?applicationIdentifier=co.flowmotion.ios.flowmotion&ap                         plicationVersion=1.8.1&d?]()
 
 ## DFU/Recovery Modus
-1. Follow the steps in the video:
+1. Follow the steps in the video: ![](flowmotion-dfu-mode.gif)
+	1. Turn on
+	2. Connect and remove the charging cable
+	3. Press 1x the power button
+	4. Connect and remove the charging cable again
 2. Then the LED should light green
 3. After connecting via bluetooth the LED should light blue
 4. There is a recovery option in the orignal flowmotion one app for ios but no firmware is available anymore
